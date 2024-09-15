@@ -11,6 +11,12 @@
 - **Event Stats**: Muestra estadísticas importantes sobre los eventos creados por el usuario, como la cantidad de eventos en cada categoría. Ayuda a los usuarios a analizar y encontrar un equilibrio entre diferentes áreas de su vida, como hobbies y trabajo.
 - **Events Editor**: Permite a los usuarios realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) con eventos, excepto la creación de nuevos eventos (que se realiza en la pestaña de Event Creator). Los usuarios pueden buscar eventos por atributos, actualizar información y eliminar eventos. Las ediciones están restringidas a categorías predeterminadas para evitar inconsistencias.
 
+## TEST
+
+Para probar la aplicación, usa nuestras credenciales de prueba:
+Usuario: test
+Password: Test12345
+
 ## Instalación
 
 Para instalar *Habitus*, sigue estos pasos:
@@ -18,13 +24,6 @@ Para instalar *Habitus*, sigue estos pasos:
 1. Descarga el archivo `.zip` desde [enlace a la descarga] (si corresponde).
 2. Descomprime el archivo en tu directorio de trabajo.
 3. Ejecuta el script de instalación `install.sql` para configurar la base de datos.
-
-## TEST
-
-Para probar la aplicación, usa nuestras credenciales de prueba:
-Usuario: test
-Password: Test12345
-
 
    ```bash
    mysql -u [usuario] -p [nombre_base_datos] < install.sql
