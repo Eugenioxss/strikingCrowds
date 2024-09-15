@@ -14,8 +14,8 @@
 ## TEST
 
 Para probar la aplicación, usa nuestras credenciales de prueba:
-Usuario: test
-Password: Test12345
+- Usuario: test
+- Password: Test12345
 
 ## Instalación
 
