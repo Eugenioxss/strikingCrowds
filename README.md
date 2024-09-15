@@ -19,5 +19,12 @@ Para instalar *Habitus*, sigue estos pasos:
 2. Descomprime el archivo en tu directorio de trabajo.
 3. Ejecuta el script de instalación `install.sql` para configurar la base de datos.
 
+## TEST
+
+Para probar la aplicación, usa nuestras credenciales de prueba:
+Usuario: test
+Password: Test12345
+
+
    ```bash
    mysql -u [usuario] -p [nombre_base_datos] < install.sql
