@@ -27,3 +27,14 @@ Para instalar *Habitus*, sigue estos pasos:
 
    ```bash
    mysql -u [usuario] -p [nombre_base_datos] < install.sql
+
+### En Desarrollo/Futuro
+
+- **Integración con Aplicaciones de Calendario**: Sincronización con Google Calendar, Outlook, etc.
+- **Recordatorios Avanzados**: Configuración de recordatorios personalizados y notificaciones por correo electrónico.
+- **Soporte para Varios Idiomas**: Localización de la aplicación para soportar múltiples idiomas.
+- **Analítica Avanzada**: Funcionalidades para obtener informes más detallados y análisis de los hábitos y eventos.
+- **Automatización de Tareas**: Creación de reglas para automatizar tareas basadas en eventos o hábitos.
+- **Integración con Dispositivos de Salud**: Conexión con dispositivos de seguimiento de salud y fitness para gestionar hábitos relacionados con el bienestar.
+
+Estas adiciones pueden ofrecer una visión más completa de las mejoras y nuevas características que están en camino para la aplicación.
