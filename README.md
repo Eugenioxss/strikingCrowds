@@ -13,7 +13,7 @@
 
 ## TEST
 
-Para probar la aplicación, usa nuestras credenciales de prueba:
+Para probar la aplicación, usa nuestras credenciales de prueba en el link de apex https://apex.oracle.com/pls/apex/r/clarisabazaldua/habitsapp/login?session=106032872857111:
 - Usuario: test
 - Password: Test12345
 
